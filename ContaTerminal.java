@@ -22,8 +22,8 @@ public class ContaTerminal {
         double depositado = scanner.nextDouble();
 
     System.out.println("CC:" + conta);
-        System.out.println("AG:" + agencia);
-        System.out.println("Olá " + nome +" " + sobrenome + " " +"seu saldo é:" + depositado);
+    System.out.println("AG:" + agencia);
+    System.out.println("Olá " + nome +" " + sobrenome + " " +"seu saldo é:" + depositado);
 
     }
 
